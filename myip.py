@@ -1,3 +1,4 @@
+#Version 1.0
 from requests import get
 
 IP_API = "http://ip-api.com/json"
